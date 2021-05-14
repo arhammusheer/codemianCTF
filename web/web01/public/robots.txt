@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /*
+Flag: codemianCTF{YoU_r3ally_Ar3_a_r0b0t}
