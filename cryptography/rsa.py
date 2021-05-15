@@ -2,7 +2,7 @@ import Crypto.Util.number
 
 import sys
 
-bits=128
+bits=64
 
 if (len(sys.argv)>1):
         bits=int(sys.argv[1])
