@@ -70,7 +70,7 @@ router.get("/admin", function (req, res, next) {
       });
     res.json({
       status: "success",
-      flag: "Y29kZW1pYW5DVEZ7WW9VX1MzRW1fTDFrM19BX1ByMH0=",
+      flag: "Q1RGTGVhcm57WW9VX1MzRW1fTDFrM19BX1ByMH0=",
     });
   });
 });
